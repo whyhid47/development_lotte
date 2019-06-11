@@ -1,2 +1,2 @@
 # development_lotte
-website
+website pemesanan makanan secara online.
